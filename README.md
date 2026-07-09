@@ -135,11 +135,11 @@ DISTINCTCOUNT(FactSales[Customer ID])
 
 ### Executive Overview
 
-![ExecutiveOverview](screenshots/Executive_Overview.png)
+![ExecutiveOverview](screenshots/Overview.png)
 
 ### Product Analysis
 
-![productAnalysis](screenshots/ProductAnalysis.png)
+![productAnalysis](screenshots/Analysis.png)
 
 ### Data Model
 
